@@ -132,3 +132,10 @@ server.port=80
 
 </project>
 ```
+
+## View
+- Main Page showing location data saved on Android Client App (ILS).
+![main](https://postfiles.pstatic.net/MjAxOTAyMThfMjUy/MDAxNTUwNDcxMzA5OTgw.XEy2Gh1hLPLHaHJeeKk0sCOMAyzUMVR5ifixKIP1KoYg.llECQ1z-fNFHSMawSzJ_rSXRGPbyJPZ2_7VdLkxb6vQg.PNG.dragon20002/%EA%B7%B8%EB%A6%BC7.png?type=w580)
+
+- Each row has Wi-Fi AP data nearby the location.
+![large](https://postfiles.pstatic.net/MjAxOTAyMThfMTQx/MDAxNTUwNDcxMzA5OTc5.nAsy8J-Lg9csWvHK44XCF57MUoJb0wHQBHcCl3SE8dsg.ZhdDBAnNY9aFKux6Ic5derh5euurWS3UAYeSS0OkurQg.PNG.dragon20002/%EA%B7%B8%EB%A6%BC8.png?type=w580)
